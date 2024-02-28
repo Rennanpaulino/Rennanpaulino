@@ -1,5 +1,5 @@
 - 👋 Hello!!! I’m Rennan, a Computer Science student at Universidade Paulista
 - 👀 I’m interested in coding either back-end and front-end projects
-- 🌱 I’m currently learning SQL Server, Javascript and bit of Cybersecurity and PowerBI
+- 🌱 I’m currently learning Web Structure, Modern Computer Architecture, AI, CG, Formal Languages, OS, and many others
 - 💞️ I’m looking to learn new things everyday, so I can use my knowledge to increase my skills and be a better professional
 - 📫 How to reach me: @rennan.paulinoo on Instagram
